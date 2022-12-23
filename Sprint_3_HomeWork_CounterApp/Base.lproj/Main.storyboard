@@ -33,7 +33,7 @@
                                     <fontDescription key="titleFontDescription" style="UICTFontTextStyleTitle1"/>
                                 </buttonConfiguration>
                                 <connections>
-                                    <action selector="addButttonTapped:" destination="BYZ-38-t0r" eventType="touchUpInside" id="wEs-8M-Zca"/>
+                                    <action selector="addButtonTapped:" destination="BYZ-38-t0r" eventType="touchUpInside" id="pfH-Vp-0J9"/>
                                 </connections>
                             </button>
                         </subviews>
@@ -41,8 +41,8 @@
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                     </view>
                     <connections>
-                        <outlet property="addButton" destination="KMX-2R-iJq" id="E9D-ql-0KL"/>
-                        <outlet property="countLabel" destination="BTU-GX-9xM" id="dYi-gH-Zkj"/>
+                        <outlet property="addButton" destination="KMX-2R-iJq" id="VMd-zb-dif"/>
+                        <outlet property="countLabel" destination="BTU-GX-9xM" id="wNh-5I-Dc1"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
